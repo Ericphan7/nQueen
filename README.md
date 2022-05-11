@@ -1,5 +1,7 @@
 n-Queens Problem 
+
 Directions: Do this homework BY YOURSELF – without the assistance of others. 
+
 Description: NP-Complete problems are usually solved through brute force (i.e. trying all possible 
 combinations). This is horrifically slow, as you’ll soon see. For this assignment, you’ll be coding up one of 
 the most famous NP-Complete problems, called the n-Queens problem. If you don’t know how to play 
